@@ -1,0 +1,2 @@
+# On-demand third-party working trees. Never vendor external code accidentally.
+third_party/checkouts/
