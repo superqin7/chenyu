@@ -1,0 +1,22 @@
+name	repository	category	priority
+windows-mcp	https://github.com/CursorTouch/Windows-MCP.git	Windows GUI MCP	Research
+cua	https://github.com/trycua/cua.git	Computer Use infrastructure	Research
+midscene	https://github.com/web-infra-dev/midscene.git	视觉 GUI 自动化测试	Research
+browser-use	https://github.com/browser-use/browser-use.git	浏览器 Agent	Research
+playwright-mcp	https://github.com/microsoft/playwright-mcp.git	浏览器 MCP	Research
+omniparser	https://github.com/microsoft/OmniParser.git	屏幕解析	Research
+ufo	https://github.com/microsoft/UFO.git	Windows GUI Agent	Research
+markitdown	https://github.com/microsoft/markitdown.git	文件转换	Research
+graphrag	https://github.com/microsoft/graphrag.git	GraphRAG	Research
+servers	https://github.com/modelcontextprotocol/servers.git	MCP 工具参考实现	Research
+mcp-use	https://github.com/mcp-use/mcp-use.git	MCP Agent SDK	Research
+autogen	https://github.com/microsoft/autogen.git	多 Agent 框架	Research
+langgraph	https://github.com/langchain-ai/langgraph.git	有状态 Agent 编排	Research
+crewai	https://github.com/crewAIInc/crewAI.git	多 Agent 编排	Research
+pydantic-ai	https://github.com/pydantic/pydantic-ai.git	类型安全 Agent	Research
+mineru	https://github.com/opendatalab/MinerU.git	文档解析	Research
+docling	https://github.com/docling-project/docling.git	文档解析	Research
+llama_index	https://github.com/run-llama/llama_index.git	RAG 开发框架	Research
+sglang	https://github.com/sgl-project/sglang.git	模型推理	Research
+pipelines	https://github.com/open-webui/pipelines.git	模型处理流水线	Research
+iphone-use	https://github.com/leeguooooo/iphone-use.git	iPhone Computer Use / device automation	Research
